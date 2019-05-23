@@ -6,9 +6,9 @@ CONFIG -= qt
 LIBS += -lpthread -lglog -lgflags
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        gflags_test.cpp
 
 HEADERS += \
     future.h \
-    gflags_def.h \
-    gflags_glog.h
+    gflags_test.h

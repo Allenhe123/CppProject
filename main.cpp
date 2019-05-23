@@ -1,6 +1,6 @@
 #include <iostream>
 #include "future.h"
-#include "gflags_glog.h"
+#include "gflags_test.h"
 
 using namespace std;
 
@@ -10,6 +10,6 @@ int main(int argc, char* argv[])
 
     gflags_test(argc, argv);
 
-    cout << "Hello World!" << endl;
+
     return 0;
 }
