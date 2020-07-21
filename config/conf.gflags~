@@ -1,6 +1,0 @@
--add_new_feature_x=false
--add_new_featrue_y=true
--fix_memory_leak_bug=true
--fix_cpu_high_bug=false
--thread_pool_worker_num=20
--server_ip="192.168.20.66"
